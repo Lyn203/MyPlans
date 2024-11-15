@@ -1,7 +1,7 @@
 # MyPlans
 Dis s my plans
 
-Mong là kế hoạch vẫn ổn, tạch nếu hôm đó không phải là azusa và oboro hic
+Mong là kế hoạch vẫn ổn
 
 ```mermaid
 graph TD;
