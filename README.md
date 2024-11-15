@@ -5,8 +5,14 @@ Here is a simple flow chart:
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    classDef active fill:#80ffff
+
+
+
+
+    1[Summon Icemelda on 10/12/2024]:::active --> 2@{ shape: diamond, label: "Summon Oboro" };
+    2 --> |Success| 3[Không phải kiếm mảnh Azusa]
+    2 --> |Failed| 4[Quét mảnh Azusa 50 cái]
+
+    4 --> 5[Đổi mảnh Azusa để lấy Oboro vào 14/12]
 ```
