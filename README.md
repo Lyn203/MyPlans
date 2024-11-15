@@ -14,5 +14,5 @@ graph TD;
     2 --> |Success| 3[Không phải kiếm mảnh Azusa]
     2 --> |Failed| 4[Quét mảnh Azusa 50 cái]
 
-    4 --> 5[Đổi mảnh Azusa để lấy Oboro vào 14/12]
+    4 --> 5[Đổi mảnh Azusa để lấy Oboro vào 14/02]
 ```
