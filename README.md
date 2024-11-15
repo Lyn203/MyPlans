@@ -1,7 +1,7 @@
 # MyPlans
 Dis s my plans
 
-Here is a simple flow chart:
+Mong là kế hoạch vẫn ổn, tạch nếu hôm đó không phải là azusa và oboro hic
 
 ```mermaid
 graph TD;
