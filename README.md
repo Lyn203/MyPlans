@@ -1,7 +1,11 @@
 # MyPlans
-Dis s my plans
+Abstract: Dis s my plan
 
-Mong là kế hoạch vẫn ổn
+1. Host Website
+2. Server HLS/Streaming
+3. (Best Options) Thuê CDN lưu video ( phải hỗ trợ HLS/Streaming để bảo mật video) = Phần sau của kế hoạch, có thể là lựa chọn thêm khi số lượng truy cập tăng lên
+4. Tạm thời chưa nghĩ ra
+
 
 ```mermaid
 graph TD;
